@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		07441DCD28CD03F20031B33B /* AboutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07441DCC28CD03F20031B33B /* AboutView.swift */; };
 		07BC82C828CACE5A00156317 /* BullseyeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07BC82C728CACE5A00156317 /* BullseyeApp.swift */; };
 		07BC82CA28CACE5A00156317 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07BC82C928CACE5A00156317 /* ContentView.swift */; };
 		07BC82CC28CACE5B00156317 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 07BC82CB28CACE5B00156317 /* Assets.xcassets */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		07441DCC28CD03F20031B33B /* AboutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutView.swift; sourceTree = "<group>"; };
 		07BC82C428CACE5A00156317 /* Bullseye.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Bullseye.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		07BC82C728CACE5A00156317 /* BullseyeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BullseyeApp.swift; sourceTree = "<group>"; };
 		07BC82C928CACE5A00156317 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -96,6 +98,7 @@
 			children = (
 				07BC82C728CACE5A00156317 /* BullseyeApp.swift */,
 				07BC82C928CACE5A00156317 /* ContentView.swift */,
+				07441DCC28CD03F20031B33B /* AboutView.swift */,
 				07BC82CB28CACE5B00156317 /* Assets.xcassets */,
 				07BC82CD28CACE5B00156317 /* Preview Content */,
 			);
@@ -258,6 +261,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				07BC82CA28CACE5A00156317 /* ContentView.swift in Sources */,
+				07441DCD28CD03F20031B33B /* AboutView.swift in Sources */,
 				07BC82C828CACE5A00156317 /* BullseyeApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -417,6 +421,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Bullseye/Preview Content\"";
+				DEVELOPMENT_TEAM = QQ3J2QZ5P6;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -446,6 +451,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Bullseye/Preview Content\"";
+				DEVELOPMENT_TEAM = QQ3J2QZ5P6;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
